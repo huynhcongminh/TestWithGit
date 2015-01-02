@@ -12,7 +12,7 @@ int main()
 	printf("Sum of a and b is: %d\n", a + b);
 
 
-	// Them chu thich
+	// Them chu thich moi
 
 	return 0;
 }
